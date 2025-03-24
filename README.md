@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Embedded Syetem Engineer and Software Developer
 -----------------------------------------------
 
-I am an enthusiastic learner passionate about exploring new technologies and expanding my skill set beyond conventional boundaries. With a background in Electronics and Communication Engineering, I have worked on multiple projects that blend theoretical knowledge with hands-on experience. My curiosity drives me to delve into emerging fields like Artificial Intelligence and software development, constantly enhancing my expertise through self-driven projects and courses. I thrive on innovation and enjoy tackling real-world challenges through technology.
+I am an enthusiastic learner passionate about exploring new technologies and expanding my skill set beyond conventional boundaries. With a background in Electronics and Communication Engineering, I have worked on multiple projects that blend theoretical knowledge with hands-on experience. My curiosity drives me to delve into emerging fields like Artificial Intelligence, Renewable Energy & Embedded Systems, Communication Systems, VLSI, software development, constantly enhancing my expertise through self-driven projects and courses. I thrive on innovation and enjoy tackling real-world challenges through technology.
 
 * 🌍  I'm based in Hyderabad,Telangana
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/pmkrishna09/murali-krishna-p.github.io)
