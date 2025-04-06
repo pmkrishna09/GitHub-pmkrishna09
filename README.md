@@ -2,13 +2,16 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Murali Krishna Peyyeti
 ==============================================================================================================================================
 
-Embedded Syetem Engineer and Software Developer
+🧭 My Professional Portfolio
+-----------------------------------------------
+
+Embedded Syetem Engineer  |  Software Developer  |  Innovator  |  Explorer
 -----------------------------------------------
 
 I am an enthusiastic learner passionate about exploring new technologies and expanding my skill set beyond conventional boundaries. With a background in Electronics and Communication Engineering, I have worked on multiple projects that blend theoretical knowledge with hands-on experience. My curiosity drives me to delve into emerging fields like Artificial Intelligence, Renewable Energy & Embedded Systems, Communication Systems, VLSI, software development, constantly enhancing my expertise through self-driven projects and courses. I thrive on innovation and enjoy tackling real-world challenges through technology.
 
 * 🌍  I'm based in Hyderabad,Telangana
-* 🖥️  See My ***Portfolio*** at [Portfolio (highlighting my projects, skills & certifications)](http://github.com/pmkrishna09/murali-krishna-p.github.io)
+* 🖥️  See My ***Portfolio*** at [Portfolio](http://github.com/pmkrishna09/murali-krishna-p.github.io) ***(highlighting my work / projects, skills & certifications)***
 * ✉️  You can contact me at [mkrishna72.p@gmail.com](mailto:mkrishna72.p@gmail.com )
 * 🧠  I'm learning 🚀 Currently diving into the exciting worlds of Drone Technology, Embedded Systems, and Generative AI! From building intelligent machines to pushing the boundaries of automation, I love experimenting with innovations that shape the future. Always eager to explore, learn, and create! 🔥
 * 🤝  I'm open to collaborating on innovative projects in Drone Technology, Embedded Systems, AI, IoT-based solutions, product development and other techs. Open to work and excited to connect with like-minded creators to bring ideas to life! 🚀
@@ -24,8 +27,23 @@ I am an enthusiastic learner passionate about exploring new technologies and exp
 
 ## Socials
 
-<p align="left"> <a href="https://www.github.com/pmkrishna09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/murali-krishna-peyyeti-8758602b1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"></picture> </a> <a href="https://www.linkedin.com/in/murali-krishna-peyyeti-8758602b1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/pmkrishna09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </p>
 
+
+## Education
+
+**Bachelor of Technology in Electronics and Communication Engineering**  
+[Hyderabad Instituite of Technology & Management], Hyderabad  
+*Graduated: 2024*
+
+## Experience
+
+**Project Intern – Research Centre Imarat (RCI), DRDO – Hyderabad**  
+*Jun 2024 – Mar 2025*  
+- Built and tested a quadcopter using KK2.1.5 flight controller for Aerial Applications.  
+- Worked on sensor calibration, PID tuning, and drone flight stability algorithms.
+
+  
 ### Badges
 
 <b>Top Repositories</b>
