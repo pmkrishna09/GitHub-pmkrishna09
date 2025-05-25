@@ -10,7 +10,7 @@ Embedded Syetem Engineer  |  Software Developer  |  Innovator  |  Explorer
 
 I am an enthusiastic learner passionate about exploring new technologies and expanding my skill set beyond conventional boundaries. With a background in Electronics and Communication Engineering, I have worked on multiple projects that blend theoretical knowledge with hands-on experience. My curiosity drives me to delve into emerging fields like Artificial Intelligence, Renewable Energy & Embedded Systems, Communication Systems, VLSI, software development, constantly enhancing my expertise through self-driven projects and courses. I thrive on innovation and enjoy tackling real-world challenges through technology.
 
-* 🌍  I'm based in Hyderabad,Telangana
+* 🌍  I'm based in Hyderabad,Telangana,INDIA
 * 🖥️  See My ***Technical Portfolio*** at [Technical Portfolio](http://github.com/pmkrishna09/murali-krishna-p.github.io) ***(highlighting my work / projects, skills & certifications)***
 * ✉️  You can contact me at [mkrishna72.p@gmail.com](mailto:mkrishna72.p@gmail.com )
 * 🧠  I'm learning 🚀 Currently diving into the exciting worlds of Drone Technology, Embedded Systems, and Generative AI! From building intelligent machines to pushing the boundaries of automation, I love experimenting with innovations that shape the future. Always eager to explore, learn, and create! 🔥
